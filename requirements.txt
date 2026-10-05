@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+
+csv file should have
+text,label
+"Scientists announce a new discovery",REAL
+"Fake story with misleading information",FAKE
